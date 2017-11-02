@@ -8,4 +8,22 @@
 
 [Bypass WAF](https://xianzhi.aliyun.com/forum/read/2251.html)			
 	
-[大马防查杀](https://bbs.ichunqiu.com/thread-28476-1-1.html?from=sec)
+[大马防查杀](https://bbs.ichunqiu.com/thread-28476-1-1.html?from=sec)	
+	
+[Hackergame 2017 Writeup](https://volltin.gitbooks.io/hackergame2017-writeup/content/)		
+
+[CSRF绕Referer](http://0x007.blog.51cto.com/6330498/1610946)			
+		
+
+[wangyihang](https://github.com/WangYihang/Reverse-Shell-Manager)			
+		
+[基于Jboss的内网渗透](http://rcoil.me/2017/10/Jboss%E5%BC%95%E8%B5%B7%E7%9A%84%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F/)		
+		
+[vulnerable-scene靶场](https://github.com/havysec/vulnerable-scene)			
+		
+[逻辑漏洞案例](http://www.freebuf.com/vuls/151196.html)			
+		
+[new code Injection](http://www.hexacorn.com/blog/2017/10/26/propagate-a-new-code-injection-trick/)		
+		
+[DOM XSS案例](http://stamone-bug-bounty.blogspot.com.es/2017/10/dom-xss-auth_14.html)		
+[Deep Learning Data](https://deeplearning4j.org/cn/opendata)
