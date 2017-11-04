@@ -26,4 +26,28 @@
 [new code Injection](http://www.hexacorn.com/blog/2017/10/26/propagate-a-new-code-injection-trick/)		
 		
 [DOM XSS案例](http://stamone-bug-bounty.blogspot.com.es/2017/10/dom-xss-auth_14.html)		
-[Deep Learning Data](https://deeplearning4j.org/cn/opendata)
+[Deep Learning Data](https://deeplearning4j.org/cn/opendata)			
+	
+[检测恶意请求 基于Keras&Tensorflow](https://github.com/adamkusey/securitai-lstm-model)
+		
+[KeyStoneJS Pentest Report](https://securelayer7.net/download/pdf/KeystoneJS-Pentest-Report-SecureLayer7.pdf)
+	
+[yetAnotherHoneyPot](https://github.com/juansacco/yetanotherhoneypot)
+	
+[http://blog.intothesymmetry.com/](http://blog.intothesymmetry.com/)
+	
+[恶意软件分析工具](https://github.com/recodeking/MalwareAnalysis)
+	
+[macOS Kernel Fuzzer](https://github.com/mwrlabs/OSXFuzz)
+	
+[扫描暗网](https://github.com/milesrichardson/docker-onion-nmap)
+	
+[ios越狱+内核调试](http://www.freebuf.com/articles/rookie/151326.html)
+	
+[移动应用安全开发](https://info.nowsecure.com/rs/201-XEW-873/images/secure-mobile-development.pdf)
+	
+[loT_reaper情况更新](http://blog.netlab.360.com/iot_reaper-a-few-updates/)
+	
+[ios app分析取证](https://github.com/chaitin/passionfruit)
+	
+[在线移动应用安全测试](https://www.htbridge.com/mobile/)
