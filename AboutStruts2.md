@@ -102,9 +102,14 @@
     S2-047 — Possible DoS attack when using URLValidator (similar to S2-044)
 			 类似S2-044 使用URLValidator导致DoS攻击
     S2-048 — Possible RCE in the Struts Showcase app in the Struts 1 plugin example in Struts 2.3.x series
-			 
+			 Struts 2.3.x系列中启用Struts 1中的插件Showcase app导致远程代码执行
     S2-049 — A DoS attack is available for Spring secured actions
+			 使用Spring AOP功能可能导致DoS攻击
     S2-050 — A regular expression Denial of Service when using URLValidator (similar to S2-044 & S2-047)
+			 (类似S2-044、S2-047)使用URLValidator可能导致DoS(正则过滤不完整)
     S2-051 — A remote attacker may create a DoS attack by sending crafted xml request when using the Struts REST plugin
+			 在使用Struts REST插件的时候，通过发送特定的xml请求可能导致DoS
     S2-052 — Possible Remote Code Execution attack when using the Struts REST plugin with XStream handler to handle XML payloads
+			 当使用Struts REST插件以及XStream handler处理XML payload时可能导致远程代码执行
     S2-053 — A possible Remote Code Execution attack when using an unintentional expression in Freemarker tag instead of string literals
+			 在Freemarker标签中使用无意的表达式可能导致远程代码执行
