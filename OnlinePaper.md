@@ -87,3 +87,40 @@
 [cve-2017-12628](http://www.4hou.com/technology/8298.html)
 	
 [DDOS](https://www.secpulse.com/archives/64088.html)
+	
+[树莓派自制网络监视器](http://www.freebuf.com/geek/152403.html)
+	
+[检测恶意javascript代码](https://researchcenter.paloaltonetworks.com/2017/10/engineers-work-automatic-static-detection-malicious-javascript/)
+	
+[基于行为的Ransomware检测原型](https://github.com/mogongtech/RansomDetection)
+	
+[GoCrack:图形化管理破解密码工具](https://www.fireeye.com/blog/threat-research/2017/10/gocrack-managed-password-cracking-tool.html)
+	
+[DNS异常检测](https://www.nominum.com/tech-blog/many-security-usages-anomaly-detection/)
+	
+[EternalPetya & BadRabbit对比分析](https://bartblaze.blogspot.jp/2017/10/comparing-eternalpetya-and-badrabbit.html)
+	
+[CVE-2017-13772](https://paper.seebug.org/434/)
+	
+[使用 Mimikatz 和 Powersploit 提取 Windows 禁止导出的证书并逃避防护软件](http://www.4hou.com/system/8276.html)
+	
+[Android蓝牙远程命令执行漏洞利用实践:从PoC到Exploit](https://mp.weixin.qq.com/s/5Qp-O3u3bul4kYgE3a0yrw)
+	
+[机器学习在安全攻防场景的应用与分析](http://www.freebuf.com/articles/neopoints/152457.html)
+	
+[VirtualApp技术黑产利用研究报告](http://www.freebuf.com/articles/paper/152091.html)
+	
+[CLDAP-DDOS](http://blog.netlab.360.com/cldap-is-now-the-3rd-reflection-amplified-ddos-attack-vector-surpassing-ssdp-and-chargen/)
+	
+[报告生成器](https://github.com/bugsafe/WeReport)
+	
+[PDF文件解析与PDF恶代分析中的一些坑](http://bobao.360.cn/learning/detail/4627.html)
+	
+[逆向PHPJiami ](http://www.kahusecurity.com/2017/deobfuscating-phpjiami/)
+	
+[Gaza Cybergang团队分析报告](https://securelist.com/gaza-cybergang-updated-2017-activity/82765/)
+	
+[AIRMASTER: 红蓝对抗中对过期域名的利用](https://github.com/t94j0/AIRMASTER)
+	
+[Elasticsearch 安全加固 101](https://www.elastic.co/cn/blog/reinforce-the-security-of-elasticsearch-101)
+	
