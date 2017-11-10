@@ -26,7 +26,7 @@
     S2-009 — ParameterInterceptor vulnerability allows remote command execution
 			 参数拦截器漏洞导致远程代码执行
     S2-010 — When using Struts 2 token mechanism for CSRF protection, token check may be bypassed by misusing known session attributes
-			 使用Struts2自带token机制防御CSRF 可以通过滥用会话参数进行绕过
+			 通过滥用会话参数可以绕过Struts2自带的防御CSRF的token
     S2-011 — Long request parameter names might significantly promote the effectiveness of DOS attacks
 			 过长的的请求参数名可能提高DOS攻击能力
     S2-012 — Showcase app vulnerability allows remote command execution
@@ -113,3 +113,17 @@
 			 当使用Struts REST插件以及XStream handler处理XML payload时可能导致远程代码执行
     S2-053 — A possible Remote Code Execution attack when using an unintentional expression in Freemarker tag instead of string literals
 			 在Freemarker标签中使用无意的表达式可能导致远程代码执行
+	
+#简单分析
+***
+阅读过官方文档之后可以把漏洞出现的地方简单归纳一下：		
+	
+1. 自带的拦截器、匹配机制
+2. token机制
+3. 插件
+4. 标签
+5. 方法(Method)、对象(Object)、类(Class)、参数(parameter)
+6. Web app
+7. 表达式
+8. 生成的页面
+9. 
