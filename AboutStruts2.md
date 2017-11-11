@@ -122,8 +122,24 @@
 2. token机制
 3. 插件
 4. 标签
-5. 方法(Method)、对象(Object)、类(Class)、参数(parameter)
+5. 方法(Method)、对象(Object)、类(Class)、参数(Parameter)、调用(Invocation)
 6. Web app
 7. 表达式
 8. 生成的页面
-9. 
+
+在进行漏洞分析之前有必要把Struts2的相关知识给介绍一下：		
+
+##1. Struts2的整体结构与工作流程	
+	
+![](http://pic002.cnblogs.com/images/2011/324906/2011082712263217.png)		
+
+这张官方的流程图很好的解释了Struts2的整个工作流程，具体如下：		</br>
+1. 客户端初始化一个指向Servlet容器的请求			</br>
+2. 请求经过一系列的过滤器(Filter)</br>
+3. 然后调用FilterDispatcher，FilterDispatcher询问ACtionMapper是否需要调用某个Action</br>
+4. 如果ActionMapper需要调用某个Action， FilterDispatcher把请求交给ActionProxy</br>
+5. ActionProxy通过Configuration Manager查看框架的配置文件找到需要调用的Action类</br>
+6. ActionProxy创建一个ActionInvocation实例</br>
+7. ActionInvocation实例使用命名模式来调用，调用Action过程前后涉及到相关拦截器的调用</br>
+8. Action执行完毕，ActionInvocation根据struts.xml中的配置找到对应的返回结果</br>&emsp; 返回结果通常是一个JSP或者一个模板(也可能是另外一个Action链)。这个过程中可以使用Struts2框架中继承的标签，还涉及到ActionMapper。</br>
+9. 返回响应到客户端</br> 
