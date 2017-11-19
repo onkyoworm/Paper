@@ -124,3 +124,60 @@
 	
 [Elasticsearch 安全加固 101](https://www.elastic.co/cn/blog/reinforce-the-security-of-elasticsearch-101)
 	
+[新型勒索软件：GIBON](http://www.4hou.com/info/news/8352.html)
+	
+[挖掘漏洞的高级方法和思维(Part.1)](http://www.4hou.com/vulnerable/8376.html) [译自](http://jackson.thuraisamy.me/finding-vulnerabilities.html)
+	
+[网站指纹识别](https://github.com/jasonsheh/FingerScan)
+	
+[ctf线下赛](https://github.com/Huseck/CTF/blob/master/CTF%E7%BA%BF%E4%B8%8B%E8%B5%9B%E6%80%9D%E8%B7%AF%E6%80%BB%E7%BB%93%E6%89%8B%E5%86%8C.pdf)
+	
+[PHP Shell bypass](https://bbs.ichunqiu.com/thread-28883-1-1.html?from=sec)
+	
+[CSV注入](http://www.4hou.com/technology/8321.html)
+	
+[apache安全配置](http://foreversong.cn/archives/789)
+	
+[CIA武器库](http://www.freebuf.com/column/153784.html)
+	
+[PHP RASP实现](https://paper.seebug.org/449/)
+	
+[Linux下DDoS](http://www.nuanyue.com/linux-xiabillgates-mu-ma-cha-sha-2-2-2/)
+	
+[HITCON2017-writeup](https://lorexxar.cn/2017/11/10/hitcon2017-writeup/)
+	
+[auxblog cms](https://ch1st.github.io/2017/11/04/auxblog-CMS-1-0-6-%E5%AE%A1%E8%AE%A1%E8%AE%B0%E5%BD%95/)
+	
+[TP-LINK WR941N路由器研究](https://paper.seebug.org/448/)
+	
+[webshell in php](https://bbs.ichunqiu.com/thread-28862-1-1.html?from=sec)
+	
+[饿了么运维基础设施进化史](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651668800&idx=1&sn=615af5f120d1298475aaf4825009cb30&chksm=8bcb82e9bcbc0bff6309d9bbaf69cfc591624206b846e00d5004a68182c934dab921b7c25794&scene=38#wechat_redirect)
+	
+[薅羊毛产业报告](http://image.3001.net/uploads/pdf/4aa87c46888173995c295a873c2aa682.pdf)
+	
+[工业系统虚拟化测试平台搭建](http://icsmaster.com/security/virtual_platform.html)
+	
+[Powershell隐藏](https://evi1cg.me/archives/UserClone.html)
+	
+[EternalBlue工具漏洞利用细节分析](https://mp.weixin.qq.com/s/-G2BjW05xAcx16piGSZhAA)
+	
+[anti sql](http://myndtt.com/2017/11/09/%E4%BB%8E%E4%B8%80%E9%81%93anti-sql%E9%A2%98%E8%AE%B2%E8%B5%B7/)
+	
+[Nmap NSE](http://www.polaris-lab.com/index.php/archives/390/)
+	
+[调戏勒索软件](https://bbs.ichunqiu.com/thread-28884-1-1.html?from=sec)
+	
+[python3 编写CMS](http://www.freebuf.com/sectool/149883.html)
+	
+[XSS过滤绕过速查表 ](http://www.freebuf.com/articles/web/153055.html)
+	
+[我的渗透学习之旅 哈哈哈哈](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247485275&idx=1&sn=1f292e69938c5f6b037e06d8e5236764&chksm=ec1e3773db69be65af3edf8132893053da612c99718c51e24509b4a13831653f9a3dff8aaca3#rd)
+	
+[第三届上海大学生网络安全竞赛流量分析 部分writeup](https://imlonghao.com/51.html)
+	
+[Metasploit搞Mysql](https://bbs.ichunqiu.com/thread-28745-1-1.html?from=sec)
+	
+[CTF流量分析](https://bbs.ichunqiu.com/thread-28962-1-1.html?from=sec)
+	
+[]()
