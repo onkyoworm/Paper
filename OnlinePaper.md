@@ -180,4 +180,27 @@
 	
 [CTF流量分析](https://bbs.ichunqiu.com/thread-28962-1-1.html?from=sec)
 	
-[]()
+[一加手机再爆后门](http://www.4hou.com/info/news/8478.html)
+	
+[绕dogBypass](https://bbs.ichunqiu.com/thread-29196-1-1.html)
+	
+[渗透信息收集工具篇](https://mp.weixin.qq.com/s/9PnuUq8jESODRQ_Et4ax0Q)
+	
+[微信分享骗局](https://mp.weixin.qq.com/s/XDGGcJPkBrVHxlw_6o6t4g)
+	
+[信安入门](https://mp.weixin.qq.com/s/vI1odThKI8zTz9Krx7JNHA)
+	
+[防火墙远程命令执行](https://mp.weixin.qq.com/s/tWYrRniK9P-61nC2kVjAmQ)
+	
+[安全管理](https://zhuanlan.zhihu.com/p/26485293)
+	
+[被动HTTP/2 客户端识别](https://www.akamai.com/uk/en/multimedia/documents/white-paper/passive-fingerprinting-of-http2-clients-white-paper.pdf)
+	
+[蜜罐与内网安全](https://sosly.me/index.php/2017/11/15/jymiguan4/)
+	
+[MySQL报错注入总结](http://uknowsec.cn/posts/notes/MySQL%20Error%20Based%20SQL%20Injection%20%EF%BC%88%E6%8A%A5%E9%94%99%E6%B3%A8%E5%85%A5%EF%BC%89%E6%80%BB%E7%BB%93.html)
+	
+[CVE-2017-5123](https://paper.seebug.org/451/)
+	
+[一个人的企业安全建设](https://xianzhi.aliyun.com/forum/topic/1568/)
+	
