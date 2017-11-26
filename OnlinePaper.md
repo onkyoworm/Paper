@@ -260,4 +260,16 @@
 	
 [2017-apt-report](https://securelist.com/apt-trends-report-q3-2017/83162/)
 	
+[Securing your Empire C2 wiht Apache mod_rewrite](https://thevivi.net/2017/11/03/securing-your-empire-c2-with-apache-mod_rewrite/)
+	
+[加密勒索软件 Double click for ransomware](http://www.4hou.com/typ/8445.html)
+	
+[ICS Security Checklist](https://github.com/alexvanmaele/ics-checklist)
+	
+[基于OPC协议工控网络系统防护浅析](https://mp.weixin.qq.com/s/G4p5vUh9LZiFvDmvltJ7RA)
+	
+[telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot)
+	
+[Deep-Android-Malware-Detection](https://github.com/niallmcl/Deep-Android-Malware-Detection)
+	
 []()
