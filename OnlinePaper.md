@@ -272,4 +272,12 @@
 	
 [Deep-Android-Malware-Detection](https://github.com/niallmcl/Deep-Android-Malware-Detection)
 	
-[]()
+[聂万泉](https://mp.weixin.qq.com/s/2Nbr3Xz4SyAtdCArIbxMHQ)
+	
+[学习笔记](https://github.com/JnuSimba/MiscSecNotes)
+	
+[安全文章](https://github.com/tom0li/collection-document)
+	
+[tomcat后台弱口令扫描](https://github.com/magicming200/tomcat-weak-password-scanner)
+	
+[Nmap进阶](https://t0data.gitbooks.io/nmap-nse/content/)
