@@ -281,3 +281,29 @@
 [tomcat后台弱口令扫描](https://github.com/magicming200/tomcat-weak-password-scanner)
 	
 [Nmap进阶](https://t0data.gitbooks.io/nmap-nse/content/)
+	
+[cobalt-strike破解版+blog](http://lr3800.com/2017/11/22/cobalt-strike-3-8%e7%a0%b4%e8%a7%a3%e7%89%88/)
+	
+[blog](http://www.fr1sh.com)
+	
+[linux二进制学习](https://github.com/JnuSimba/LinuxSecNotes)
+	
+[怼一波AWVS](http://blog.wils0n.cn/archives/145/)
+	
+[JS-XSS](http://www.4hou.com/web/8527.html)
+	
+[信安之路site](http://www.myh0st.cn)
+	
+[Apache HTTP 后门开发](http://www.jianshu.com/p/9d9248922508)
+	
+[子域名收集](http://www.4hou.com/technology/8535.html)
+	
+[海莲花Denis报告](https://mp.weixin.qq.com/s/UIV0YaIlSJLcYT32XJQPlg)
+	
+[Android安全学习](https://github.com/JnuSimba/AndroidSecNotes)
+	
+[Office套餐](https://mp.weixin.qq.com/s/Fb64DE0ThynWsjX5-qCTnA)
+	
+[大数据分析利器](http://www.jianshu.com/p/4b7d652317bb?from=timeline)
+	
+[]()
