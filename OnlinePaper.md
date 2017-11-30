@@ -306,4 +306,6 @@
 	
 [大数据分析利器](http://www.jianshu.com/p/4b7d652317bb?from=timeline)
 	
-[]()
+[Meterpreter小教程](http://www.freebuf.com/sectool/154752.html)
+	
+[僵尸网络INK](http://www.freebuf.com/vuls/154975.html)
