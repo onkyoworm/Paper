@@ -309,3 +309,29 @@
 [Meterpreter小教程](http://www.freebuf.com/sectool/154752.html)
 	
 [僵尸网络INK](http://www.freebuf.com/vuls/154975.html)
+	
+[php内置过滤函数](http://uknowsec.cn/posts/notes/php%E5%86%85%E7%BD%AE%E8%BF%87%E6%BB%A4%E5%87%BD%E6%95%B0%E6%80%BB%E7%BB%93.html)
+	
+[CVE-2017-11882](https://evi1cg.me/archives/CVE_2017_11882_exp.html)
+	
+[反爬虫](http://www.4hou.com/technology/8482.html)
+	
+[JSON反序列化之殇](http://xxlegend.com/2017/11/23/Java%20JSON%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E4%B9%8B%E6%AE%87-%E7%9C%8B%E9%9B%AA%E5%AE%89%E5%85%A8%E5%BC%80%E5%8F%91%E8%80%85%E5%B3%B0%E4%BC%9A/)
+	
+[Elasticsearch全文搜索的使用和原理](https://jiayi.space/post/elasticsearchquan-wen-sou-suo-de-shi-yong-he-yuan-li)
+	
+[安卓应用安全](https://github.com/B3nac/Android-Reports-and-Resources)
+	
+[基于SVM模型认证码识别](https://manning23.github.io/2015/04/30/%E5%9F%BA%E4%BA%8ESVM%E6%A8%A1%E5%9E%8B%E8%AF%86%E5%88%AB%E7%99%BB%E5%BD%95%E9%AA%8C%E8%AF%81%E7%A0%81/)
+	
+[mirai](http://blog.netlab.360.com/early-warning-a-new-mirai-variant-is-spreading-quickly-on-port-23-and-2323-2/)
+	
+[物联网安全分析基础](https://paper.seebug.org/460/)
+	
+[java反弹工具](https://zhuanlan.zhihu.com/p/31414601)
+	
+[baiduSecurity-OpenRASP漏洞测试环境](https://github.com/baidu-security/openrasp-testcases)
+	
+[17三方SDK威胁概况](http://appscan.360.cn/blog/?p=210)
+	
+[CVE-2017-8759 EXP-Russian Banks](http://blog.trendmicro.com/trendlabs-security-intelligence/cobalt-spam-runs-use-macros-cve-2017-8759-exploit/)
