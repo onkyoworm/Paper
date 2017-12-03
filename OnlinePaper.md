@@ -335,3 +335,19 @@
 [17三方SDK威胁概况](http://appscan.360.cn/blog/?p=210)
 	
 [CVE-2017-8759 EXP-Russian Banks](http://blog.trendmicro.com/trendlabs-security-intelligence/cobalt-spam-runs-use-macros-cve-2017-8759-exploit/)
+	
+[Art of Fuzzing](https://sec-consult.com/en/blog/2017/11/the-art-of-fuzzing-slides-and-demos/index.html)
+	
+[BeEF钓鱼平台](https://mp.weixin.qq.com/s/dRHv_wq2pflfle6H5ugKiw)
+	
+[深度学习的二进制恶意样本检测](https://mp.weixin.qq.com/s/Bw8QuhSDDImgFWSO2-xUZQ)
+	
+[Java 反序列化 Payload 之 JRE8u20 ](https://mp.weixin.qq.com/s/Daipik5qK6cIuYl49G-n4Q)
+	
+[基于内存搜索的Android脱壳工具](https://github.com/DrizzleRisk/drizzleDumper)
+	
+[Office文件内容关键字提取](https://mp.weixin.qq.com/s/QiY07p9C5mqa8bqS1Xi2Pw)
+	
+[分析 KaiXin Exp Kit](http://www.nao-sec.org/2017/11/analyzing-kaixin-exploit-kit.html)
+	
+[]()
