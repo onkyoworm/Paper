@@ -350,4 +350,62 @@
 	
 [分析 KaiXin Exp Kit](http://www.nao-sec.org/2017/11/analyzing-kaixin-exploit-kit.html)
 	
-[]()
+[Milipol Paris 2017 谢谢杨叔](https://paper.seebug.org/466/)
+	
+[开源致富！！！](https://github.com/wizicer/FinancialSupportForOpenSource/blob/master/README.md)
+	
+[IP地址混淆](https://findneo.github.io/2017/11/textual-representation-of-IP-address/)
+	
+[shodan小技巧](http://www.cnblogs.com/miaodaren/p/7904484.html)
+	
+[php反序列化总结](http://www.lsablog.com/network_security/penetration/php-unserialize-bug-summary/)
+	
+[CVE-2017-11882+msf getshell](https://bbs.ichunqiu.com/thread-29620-1-1.html?from=sec)
+	
+[shodan API + python](http://www.4hou.com/web/8803.html)
+	
+[反 反反社工](https://bbs.ichunqiu.com/thread-29654-1-1.html?from=sec)
+	
+[powershell基础](https://www.anquanke.com/post/id/87976?from=timeline&isappinstalled=0)
+	
+[java反序列化](http://www.freebuf.com/column/155381.html)
+	
+[owasp juice shop 1](https://bbs.ichunqiu.com/thread-29680-1-1.html?from=sec)
+	
+[2017-DC0571-PPT-s9ht](https://pan.baidu.com/s/1qYLsLnm )
+	
+[XSS-SSRF/LFR](https://bbs.ichunqiu.com/thread-24786-1-1.html?from=sec)
+	
+[自己做个卫星站?????](http://www.freebuf.com/articles/wireless/153793.html)
+	
+[windows下远程执行代码技巧](http://www.freebuf.com/articles/system/155147.html)
+	
+[web app 弹计算器](https://blog.zsxsoft.com/post/32)
+	
+[开源的代码质量管理系统](https://www.sonarqube.org/)
+	
+[对抗爬虫2](http://www.4hou.com/web/8736.html)
+	
+[大脏牛CVE-2017-1000405](http://ne2der.com/2017/HugeDirtyCOW-CVE-2017%E2%80%931000405/)
+	
+[outlook渗透内网](http://www.4hou.com/penetration/8541.html)
+	
+[物联网-固件基础](https://paper.seebug.org/468/)
+	
+[mshta in CVE-2017-11882](http://www.freebuf.com/articles/web/155304.html)
+	
+[DebSecOps](http://www.freebuf.com/articles/es/145567.html)
+	
+[CRLF PDF](https://speakerd.s3.amazonaws.com/presentations/698791c9e3ff4ef6b6bf8d8c522fd823/ZN_CRLF_PDF.pdf)
+	
+[……代码混淆](https://bbs.ichunqiu.com/thread-29665-1-1.html?from=sec)
+	
+[钓鱼实战 样本分析](https://www.anquanke.com/post/id/88145?from=timeline&isappinstalled=0)
+	
+[CVE-2016-2334](http://blog.talosintelligence.com/2017/11/exploiting-cve-2016-2334.html?m=1&from=timeline)
+	
+[机器学习标准化模板生成工具](https://github.com/drivendata/cookiecutter-data-science)
+	
+[机器学习in web](https://mp.weixin.qq.com/s/Fuu70rPWyYP5mQSOK3J9_Q)
+	
+[工控系统研究](https://mp.weixin.qq.com/s/MzLeI17OeDqr2aFBNAidZQ)
