@@ -409,3 +409,17 @@
 [机器学习in web](https://mp.weixin.qq.com/s/Fuu70rPWyYP5mQSOK3J9_Q)
 	
 [工控系统研究](https://mp.weixin.qq.com/s/MzLeI17OeDqr2aFBNAidZQ)
+	
+[远古黑客故事-tk](https://mp.weixin.qq.com/s/ViXiDSu-mZqBZCZ-4yOVFg)		
+	
+[渗透-windows用户隐藏](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%B8%90%E6%88%B7%E9%9A%90%E8%97%8F/)
+	
+[src中信息搜索](https://mp.weixin.qq.com/s/juGoL1QlirhxwCjDZD3nfg)
+	
+[window-markdown](https://sspai.com/post/42126)
+	
+[发散思维](https://mp.weixin.qq.com/s/kiOAk2VfgkS51A_gwd23qw)
+	
+[过狗一句话](https://bbs.ichunqiu.com/thread-29896-1-1.html?from=sec)
+	
+[代理服务器扫描器](https://github.com/netxfly/xsec-proxy-scanner)
