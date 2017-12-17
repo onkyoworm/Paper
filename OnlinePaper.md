@@ -423,3 +423,95 @@
 [过狗一句话](https://bbs.ichunqiu.com/thread-29896-1-1.html?from=sec)
 	
 [代理服务器扫描器](https://github.com/netxfly/xsec-proxy-scanner)
+	
+[安全运维的洞](https://mp.weixin.qq.com/s/xDgrIQG7bdbkrgNpbsxSIQ)
+	
+[blackhat2017](https://www.blackhat.com/eu-17/briefings.html)
+	
+[weibo数据API](https://github.com/yawuplus/weibo-api)
+	
+[小米lot之路](https://events.cloud.mi.com/iotsummit/paper/2.%20%E5%B0%8F%E7%B1%B3IoT%E5%AE%89%E5%85%A8%E4%B9%8B%E8%B7%AF%20-%20%E9%99%88%E6%B4%8B.pdf)
+	
+[攻击容器集群管理平台](https://0x0d.im/archives/attack-container-management-platform.html)
+	
+[针对已知数据的信息挖掘](http://blog.nsfocus.net/web-mining/)
+	
+[MySQL绕WAF](http://www.freebuf.com/articles/web/155570.html)
+	
+[cookie之困思考](http://www.cnblogs.com/r00tuser/p/7993509.html)
+	
+[花 花式偷NetNTLM哈希](https://paper.seebug.org/474/)
+	
+[TensorFlow自动识别验证码](https://mp.weixin.qq.com/s/J9vjaoClzBbR4oigusNdpw)
+	
+[phpwebshell变形](http://www.freebuf.com/articles/web/155891.html#0-tsina-1-30825-397232819ff9a47a7b7e80a40613cfe1)
+	
+[scrapy+selenium爬取UC头条网站](http://kekefund.com/2017/12/06/scrapy-and-selenium/)
+	
+[Apktool漏洞利用分析](https://security.tencent.com/index.php/blog/msg/122)
+	
+[XDCMS sql显错注入](https://bbs.ichunqiu.com/thread-30059-1-1.html?from=sec)
+	
+[绕防火墙 哈哈哈哈](https://www.ptsecurity.com/upload/corporate/ww-en/download/PT-devteev-CC-WAF-ENG.pdf)
+	
+[Delivering Security Insights with Data Analytics and Visualization](https://www.slideshare.net/zrlram/delivering-security-insights-with-data-analytics-and-visualization-83499852)
+	
+[企业安全项目架构实践分享](https://mp.weixin.qq.com/s/RlBTH9-xrY7Nd1ZJK3KjDQ)
+	
+[代码审计Cacti](https://mp.weixin.qq.com/s/6g5KBnjwlKJ3C-1cVYMpQg)
+	
+[dnsmasq实现data retrive over DNS](https://story.tonylee.name/2016/06/21/yong-dnsmasqshi-xian-data-retrive-over-dns/)
+	
+[基于AST抽象语法树的Powershell代码混淆技术](http://www.4hou.com/penetration/9002.html)
+	
+[Linux kernel SLAB_FREELIST_HARDENED分析](https://paper.seebug.org/470/)
+	
+[CIA Vault7RDBwindows后门利用方法分析](https://3gstudent.github.io/3gstudent.github.io/CIA-Vault7-RDB%E4%B8%AD%E7%9A%84Windows%E5%90%8E%E9%97%A8%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95%E5%88%86%E6%9E%90/)
+	
+[小nmap](https://github.com/nixawk/nmap_vscan)
+	
+[Xlearning 调度框架](https://github.com/Qihoo360/XLearning/blob/master/README_CN.md)
+	
+[s2报告](https://github.com/SecureSkyTechnology/study-struts2-s2-054_055-jackson-cve-2017-7525_cve-2017-15095)
+	
+[光猫漏洞分析](https://mp.weixin.qq.com/s/bq3yUSA3dLLmbWEyewjcMw)
+	
+[新app登录验证技术方案](https://mp.weixin.qq.com/s/KALAL31QoC8s8bANKRgKcQ)
+	
+[wordpress keylogger](https://cert.360.cn/warning/detail?id=6c3e744f070dff4b88a5d15c5e46620e)
+	
+[关于手机指纹安全](https://paper.seebug.org/471/)
+	
+[安卓app敏感信息本地存储](https://mp.weixin.qq.com/s/vDIgYIlWnZ5FJUwy9Vs-lg)
+	
+[分解形后门](https://mp.weixin.qq.com/s/KLR2s9PkHqy97eZjYTeM2w)
+	
+[pwnhub会员日思考???](https://mp.weixin.qq.com/s/_4Du7aqTHNhS4OArfVGqvw)
+	
+[神经网络实体识别 关系抽取联合学习](https://mp.weixin.qq.com/s/AhoEzujMVUU-P7j5z_8sVQ)
+	
+[哈哈哈哈 php练习](https://www.ripstech.com/php-security-calendar-2017/)
+	
+[ISCC2017GRDweb writeup](http://foreversong.cn/archives/847)
+	
+[cmsPOC](https://github.com/CHYbeta/cmsPoc/wiki/Scripts)
+	
+[上网终端漏洞威胁情报报告](https://mp.weixin.qq.com/s/iHH0BR7UQh0ycBJONbgABw)
+	
+[域名追踪黑产](http://foreversong.cn/archives/882)
+	
+[工控中检查钓鱼网络](https://github.com/manikantareddyd/ics-attack-detection)
+	
+[通过日志检查横向攻击](https://www.jpcert.or.jp/english/pub/sr/Detecting%20Lateral%20Movement%20through%20Tracking%20Event%20Logs_version2.pdf)
+	
+[红队隐藏](https://posts.specterops.io/designing-effective-covert-red-team-attack-infrastructure-767d4289af43)
+	
+[利用CVE-2017-11882进行攻击](https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html)
+	
+[ML中图论在Timesketch中的探索](https://medium.com/timesketch/thinking-in-graphs-exploring-with-timesketch-84b79aecd8a6)
+	
+[用DNS实现Data retrive over DNS](https://story.tonylee.name/2016/06/21/yong-dnsmasqshi-xian-data-retrive-over-dns/)
+	
+[非即时反馈策略与随机噪音在业务安全中的应用 haoshenaodeganjue](https://mp.weixin.qq.com/s/gFXbO4CkG4ZWZvNp-xpARQ)
+	
+[SecBee](https://github.com/Cognosec/SecBee)
